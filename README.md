@@ -148,6 +148,7 @@ Note: the assignment below was written using AI, so feel free to utilize it heav
 
    - Your PR updates automatically.
 
+9 ** Be happy idk**
 ---
 
 ## Submission Template (intro.md)
@@ -159,7 +160,7 @@ Note: the assignment below was written using AI, so feel free to utilize it heav
 **Handle:** @your-handle  
 **OS:** (e.g., Windows 11)  
 **GitHub URL:** https://github.com/your-handle  
-**CS Experience:** (the coolest thing you’ve built with code)
+**CS Experience:** (the coolest thing I’ve built with code specifically my recreation of the card game craps)
 ```
 
 ---

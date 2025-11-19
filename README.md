@@ -148,6 +148,7 @@ Note: the assignment below was written using AI, so feel free to utilize it heav
 
    - Your PR updates automatically.
 
+9 ** Be happy idk**
 ---
 
 ## Submission Template (intro.md)
